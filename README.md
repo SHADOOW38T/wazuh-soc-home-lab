@@ -1,3 +1,3 @@
 # wazuh-soc-home-lab
 A hands-on SOC home lab using Wazuh to simulate, detect, investigate, and respond to security incidents.
-<img width="512" height="512" alt="Image" src="https://github.com/user-attachments/assets/4e68db1e-1d4b-4952-a02a-828c2c9d4fb4" />
+<img width="272" height="128" alt="Image" src="https://github.com/user-attachments/assets/071a0fca-d340-462a-9a93-a506319f3f63" />
