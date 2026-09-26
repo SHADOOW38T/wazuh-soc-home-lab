@@ -1,5 +1,8 @@
 # SOC L1 Documentation
 
+
+<img width="738" height="387" alt="Image" src="https://github.com/user-attachments/assets/c40b4b25-2c9f-4e29-80de-8e62b2eec397" />
+
 A practical documentation framework for Security Operations Center (SOC) Level 1 analysts.
 
 This repository documents a structured approach to:
@@ -41,6 +44,10 @@ Each investigation should clearly document:
 - Is it a True Positive or False Positive?
 - What action was taken?
 - Does it require escalation?
+
+## Templates
+
+- [SOC L1 Incident Report Template (.docx)](https://github.com/user-attachments/files/32688836/SOC_L1_Incident_Report_Template.docx) — a ready-to-use incident/alert triage report with fields for incident summary, evidence/screenshots, IOC and MITRE ATT&CK mapping, actions taken, escalation, and disposition.
 
 ## Tools
 
